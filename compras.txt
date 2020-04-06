@@ -1,8 +1,9 @@
 1-Velho barreiro
-2-Carvão
+2-CarvÃ£o
 3-Carne
-4-Linguiça
-5-Coraçãozinho de galinha
+4-LinguiÃ§a
+5-CoraÃ§Ã£ozinho de galinha
 6-3 caixas de brahma
-7-Limões
+7-LimÃµes
 8-Gelo
+9-PÃ£o
